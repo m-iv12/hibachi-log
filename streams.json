@@ -465,7 +465,14 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "桃鉄",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+    "title": "【桃鉄】東西ヒーロー合同演習【にじさんじ / Oriens&Dytica】",
+    "url": "https://www.youtube.com/watch?v=ZMcXdokdCBg",
+    "manual": true
+   }
+  ]
  },
  {
   "id": "_IhYVtGim7E",
@@ -5704,6 +5711,21 @@
   "collabs": []
  },
  {
+  "id": "fxMILxk5Ibs",
+  "title": "謝罪用.mp4【Oriens/にじさんじ】",
+  "kind": "video",
+  "status": "done",
+  "start": "2024-09-16T11:31:18Z",
+  "end": "2024-09-16T11:46:18Z",
+  "url": "https://www.youtube.com/watch?v=fxMILxk5Ibs",
+  "thumb": "https://i.ytimg.com/vi/fxMILxk5Ibs/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "Oriens/にじさんじ",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "2DQ_Bd-4iDg",
   "title": "【リングフィット】DAY27  声出しにリングフィットを使ったっていい。【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -5979,6 +6001,21 @@
   "own": true,
   "game": "リングフィット",
   "collabs": []
+ },
+ {
+  "id": "-T8PvPoFMSQ",
+  "title": "【第1回放課後オリエンス】カワスイ男4人旅：前編 【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-10-04T11:00:26Z",
+  "end": "2024-10-04T11:18:04Z",
+  "url": "https://www.youtube.com/watch?v=-T8PvPoFMSQ",
+  "thumb": "https://i.ytimg.com/vi/-T8PvPoFMSQ/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "第1回放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "cdHV9FDLapM",
@@ -6317,6 +6354,21 @@
   "collabs": []
  },
  {
+  "id": "J_V4rBSCuL0",
+  "title": "「放課後オリエンス」グッズ＆ボイス発売決定！！【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-10-23T10:00:03Z",
+  "end": "2024-10-23T11:28:40Z",
+  "url": "https://www.youtube.com/watch?v=J_V4rBSCuL0",
+  "thumb": "https://i.ytimg.com/vi/J_V4rBSCuL0/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "Oriens/にじさんじ",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "ISVPDWtARHY",
   "title": "【Detroit: Become Human】完全初見デトロイト！必要犠牲だってあるはず― \"CASE-002\"【緋八マナ / にじさんじ】",
   "kind": "stream",
@@ -6552,6 +6604,21 @@
   "own": true,
   "game": "Detroit: Become Human",
   "collabs": []
+ },
+ {
+  "id": "BMYPjDp1dDs",
+  "title": "【SUPER MARIO PARTY ジャンボリー】勝ちたくばジャンボれ…【にじさんじ／佐伯イッテツ/赤城ウェン/緋八マナ/宇佐美リト】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-11-05T11:00:05Z",
+  "end": "2024-11-05T12:50:48Z",
+  "url": "https://www.youtube.com/watch?v=BMYPjDp1dDs",
+  "thumb": "https://i.ytimg.com/vi/BMYPjDp1dDs/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "SUPER MARIO PARTY ジャンボリー",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "00qRTEqfCFY",
@@ -6878,6 +6945,21 @@
   "collabs": []
  },
  {
+  "id": "EqiUM8kfYnA",
+  "title": "【#オリエンスキンライフ】スキンライフからの挑戦状？！赤城ウェンの挑戦！【にじさんじ／佐伯イッテツ/赤城ウェン/緋八マナ/宇佐美リト】",
+  "kind": "video",
+  "status": "done",
+  "start": "2024-11-25T09:00:12Z",
+  "end": "2024-11-25T09:15:12Z",
+  "url": "https://www.youtube.com/watch?v=EqiUM8kfYnA",
+  "thumb": "https://i.ytimg.com/vi/EqiUM8kfYnA/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#オリエンスキンライフ",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "GB0Dd0LPfEw",
   "title": "【雑談】ちょっと駄弁ったっていい【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -6890,6 +6972,21 @@
   "own": true,
   "game": "雑談",
   "collabs": []
+ },
+ {
+  "id": "anZvY1J7_6o",
+  "title": "【#オリエンスキンライフ】スキンライフからの挑戦状？！緋八マナの挑戦！【にじさんじ／佐伯イッテツ/赤城ウェン/緋八マナ/宇佐美リト】",
+  "kind": "video",
+  "status": "done",
+  "start": "2024-11-26T09:00:05Z",
+  "end": "2024-11-26T09:15:05Z",
+  "url": "https://www.youtube.com/watch?v=anZvY1J7_6o",
+  "thumb": "https://i.ytimg.com/vi/anZvY1J7_6o/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#オリエンスキンライフ",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "sk-_biJM6Dk",
@@ -6931,7 +7028,28 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "スプラトゥーン3",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "Oriensオリエンス【にじさんじ】",
+    "title": "【#オリエンスキンライフ】スキンライフからの挑戦状？！宇佐美リトの挑戦！【にじさんじ／佐伯イッテツ/赤城ウェン/緋八マナ/宇佐美リト】",
+    "url": "https://www.youtube.com/watch?v=WSij7zxIs-g"
+   }
+  ]
+ },
+ {
+  "id": "oiENukMe6r4",
+  "title": "【#オリエンスキンライフ】スキンライフからの挑戦状？！佐伯イッテツの挑戦！【にじさんじ／佐伯イッテツ/赤城ウェン/緋八マナ/宇佐美リト】",
+  "kind": "video",
+  "status": "done",
+  "start": "2024-11-28T09:00:55Z",
+  "end": "2024-11-28T09:15:55Z",
+  "url": "https://www.youtube.com/watch?v=oiENukMe6r4",
+  "thumb": "https://i.ytimg.com/vi/oiENukMe6r4/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#オリエンスキンライフ",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "JeoxReCx3Yo",
@@ -7178,6 +7296,21 @@
   ]
  },
  {
+  "id": "tOsyyRQMZNA",
+  "title": "【＃放課後オリエンス】おりえんす歌祭2024【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-12-20T06:00:09Z",
+  "end": "2024-12-20T07:50:23Z",
+  "url": "https://www.youtube.com/watch?v=tOsyyRQMZNA",
+  "thumb": "https://i.ytimg.com/vi/tOsyyRQMZNA/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "＃放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "jDVv2sJt8zc",
   "title": "【朝活雑談】今夜も歌謡祭！オリエンス歌祭の振り返りとかとか！【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -7204,6 +7337,21 @@
   "own": true,
   "game": "リングフィット",
   "collabs": []
+ },
+ {
+  "id": "G1nHd-09xbQ",
+  "title": "【オリエンス】ふるさとに思いをはせ、with 　雑談",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-12-23T13:01:09Z",
+  "end": "2024-12-23T14:29:21Z",
+  "url": "https://www.youtube.com/watch?v=G1nHd-09xbQ",
+  "thumb": "https://i.ytimg.com/vi/G1nHd-09xbQ/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "oJQ-xqzCKoI",
@@ -7517,6 +7665,36 @@
   ]
  },
  {
+  "id": "RTeP5Fuods8",
+  "title": "【激アツ2025幕開け】新年初！放課後オリエンス【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-01-17T11:00:09Z",
+  "end": "2025-01-17T12:22:21Z",
+  "url": "https://www.youtube.com/watch?v=RTeP5Fuods8",
+  "thumb": "https://i.ytimg.com/vi/RTeP5Fuods8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "激アツ2025幕開け",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
+  "id": "pUESvVPhPSI",
+  "title": "【歌ってみた】厨病激発ボーイ【にじさんじ / Oriens】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-01-17T12:30:06Z",
+  "end": "2025-01-17T12:35:38Z",
+  "url": "https://www.youtube.com/watch?v=pUESvVPhPSI",
+  "thumb": "https://i.ytimg.com/vi/pUESvVPhPSI/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "歌ってみた",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "Lz7Z266Mw5E",
   "title": "【雑談】朝早くから元気に喋ろうの会【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -7671,6 +7849,21 @@
   "collabs": []
  },
  {
+  "id": "gziTHOMNmdQ",
+  "title": "【＃にじふわりぃ】てごわい てきが あらわれた！どうする？▶アイテムをつかう【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-02-04T11:00:07Z",
+  "end": "2025-02-04T12:04:03Z",
+  "url": "https://www.youtube.com/watch?v=gziTHOMNmdQ",
+  "thumb": "https://i.ytimg.com/vi/gziTHOMNmdQ/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "＃にじふわりぃ",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "vd3KpdyCMLU",
   "title": "【雑談】🎉にじフェス参戦のおすすめ🎉 きっとマナべる雑談 【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -7683,6 +7876,21 @@
   "own": true,
   "game": "雑談",
   "collabs": []
+ },
+ {
+  "id": "PRCZwJn3h6o",
+  "title": "【 #放課後オリエンス 】バレンタイン特別企画！最高の味覚を持つのは誰か！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-02-08T10:00:03Z",
+  "end": "2025-02-08T11:12:22Z",
+  "url": "https://www.youtube.com/watch?v=PRCZwJn3h6o",
+  "thumb": "https://i.ytimg.com/vi/PRCZwJn3h6o/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "ZMVWppNU2u8",
@@ -8153,6 +8361,21 @@
   "collabs": []
  },
  {
+  "id": "FMeNR98gT6o",
+  "title": "【 #放課後オリエンス 】祝！オリエンス2周年！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-03-30T10:00:09Z",
+  "end": "2025-03-30T13:45:02Z",
+  "url": "https://www.youtube.com/watch?v=FMeNR98gT6o",
+  "thumb": "https://i.ytimg.com/vi/FMeNR98gT6o/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "OW7ydjm8wPo",
   "title": "【とても勉強になる】嘘サムネ作ってみた！【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -8291,6 +8514,21 @@
   "own": true,
   "game": "Minecraft",
   "collabs": []
+ },
+ {
+  "id": "9Xm_3tBqZbw",
+  "title": "【 桃太郎電鉄ワールド ～地球は希望でまわってる！～ 】4月にやる桃鉄っていいですなぁ～！！！ #放課後オリエンス【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-04-14T09:57:35Z",
+  "end": "2025-04-14T12:33:43Z",
+  "url": "https://www.youtube.com/watch?v=9Xm_3tBqZbw",
+  "thumb": "https://i.ytimg.com/vi/9Xm_3tBqZbw/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "桃太郎電鉄ワールド ～地球は希望でまわってる！～",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "NxeGm-EyXVk",
@@ -8699,6 +8937,36 @@
   "collabs": []
  },
  {
+  "id": "Xjh4yID583s",
+  "title": "【 3D配信 】Oriensアジト大公開スペシャル！！！ #放課後オリエンス【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-05-22T09:59:01Z",
+  "end": "2025-05-22T11:16:13Z",
+  "url": "https://www.youtube.com/watch?v=Xjh4yID583s",
+  "thumb": "https://i.ytimg.com/vi/Xjh4yID583s/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "3D配信",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
+  "id": "BAHrkZxfIbk",
+  "title": "【＃放課後オリエンス】カワスイ男4人旅：後編 【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-05-22T11:30:06Z",
+  "end": "2025-05-22T11:56:05Z",
+  "url": "https://www.youtube.com/watch?v=BAHrkZxfIbk",
+  "thumb": "https://i.ytimg.com/vi/BAHrkZxfIbk/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "＃放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "BfFX7meiVw4",
   "title": "【雑談】歌ってみたが出たりアジトがお披露目されたり…色々したなぁ…【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -8793,6 +9061,21 @@
   "own": true,
   "game": "お悩み相談",
   "collabs": []
+ },
+ {
+  "id": "_jpy5wZ2pMM",
+  "title": "オリエンスちゃーん！なにがすきー？ #shorts",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-05-30T09:30:21Z",
+  "end": "2025-05-30T09:45:21Z",
+  "url": "https://www.youtube.com/watch?v=_jpy5wZ2pMM",
+  "thumb": "https://i.ytimg.com/vi/_jpy5wZ2pMM/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "その他",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "_Gq3Wc6iJYk",
@@ -9087,6 +9370,36 @@
   "own": true,
   "game": "MV",
   "collabs": []
+ },
+ {
+  "id": "2pvvQhZ0O5o",
+  "title": "【 #放課後オリエンス 】色んな珍味を実食！！！！！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-06-30T09:59:07Z",
+  "end": "2025-06-30T11:14:24Z",
+  "url": "https://www.youtube.com/watch?v=2pvvQhZ0O5o",
+  "thumb": "https://i.ytimg.com/vi/2pvvQhZ0O5o/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
+  "id": "HWqSqFIc-o0",
+  "title": "【初体験】電気イス座ってみた　【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-06-30T11:18:34Z",
+  "end": "2025-06-30T11:33:34Z",
+  "url": "https://www.youtube.com/watch?v=HWqSqFIc-o0",
+  "thumb": "https://i.ytimg.com/vi/HWqSqFIc-o0/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "初体験",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "5A15E0BOMKg",
@@ -9387,6 +9700,21 @@
   "own": true,
   "game": "朝活雑談",
   "collabs": []
+ },
+ {
+  "id": "FL5DEY2Y8ZM",
+  "title": "【ガチ】電流MECHA-MECHAチャレンジ！【Oriens/にじさんじ】#めちゃめちゃ",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-07-21T09:30:08Z",
+  "end": "2025-07-21T09:45:08Z",
+  "url": "https://www.youtube.com/watch?v=FL5DEY2Y8ZM",
+  "thumb": "https://i.ytimg.com/vi/FL5DEY2Y8ZM/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "ガチ",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "43ZcKqxQRls",
@@ -9717,6 +10045,21 @@
   "collabs": []
  },
  {
+  "id": "qJTJPtAZtjE",
+  "title": "【 #放課後オリエンス 】裏オリ！実は◯◯に行ってきました！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-08-26T09:59:11Z",
+  "end": "2025-08-26T11:29:03Z",
+  "url": "https://www.youtube.com/watch?v=qJTJPtAZtjE",
+  "thumb": "https://i.ytimg.com/vi/qJTJPtAZtjE/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "NBcKtZEg5mg",
   "title": "【Minecraft】リゾート完成させる！一泊1億円です。【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -9995,6 +10338,21 @@
   "collabs": []
  },
  {
+  "id": "XwyLYEAdpO4",
+  "title": "【 #放課後オリエンス 】イェ～イ！めっちゃ夏祭り3D！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-09-17T10:59:11Z",
+  "end": "2025-09-17T12:12:19Z",
+  "url": "https://www.youtube.com/watch?v=XwyLYEAdpO4",
+  "thumb": "https://i.ytimg.com/vi/XwyLYEAdpO4/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "WokMr_yem34",
   "title": "【RPGジィ (RPGではない)】どこを見てもジジイなRPGがツッコミ不足すぎる【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -10051,6 +10409,21 @@
   "collabs": []
  },
  {
+  "id": "BvewADSCEvo",
+  "title": "【オリエンすくい】すくってみろ 【にじさんじ/Oriens/宇佐美リト】",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-09-23T09:00:16Z",
+  "end": "2025-09-23T09:15:16Z",
+  "url": "https://www.youtube.com/watch?v=BvewADSCEvo",
+  "thumb": "https://i.ytimg.com/vi/BvewADSCEvo/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "オリエンすくい",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "c6Mlp_FyilA",
   "title": "【歌枠】夏のように爽やかな皆様を呼ばせて頂きました！【にじさんじ / 緋八マナ 甲斐田晴 渚トラウト 風楽奏斗】",
   "kind": "stream",
@@ -10063,6 +10436,21 @@
   "own": true,
   "game": "歌枠",
   "collabs": []
+ },
+ {
+  "id": "5O8oAN-5A6k",
+  "title": "【オリエンすくい】どう？すくえそう？【にじさんじ/Oriens/赤城ウェン】",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-09-26T09:00:15Z",
+  "end": "2025-09-26T09:15:15Z",
+  "url": "https://www.youtube.com/watch?v=5O8oAN-5A6k",
+  "thumb": "https://i.ytimg.com/vi/5O8oAN-5A6k/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "オリエンすくい",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "fdrGNbBaBks",
@@ -10079,6 +10467,21 @@
   "collabs": []
  },
  {
+  "id": "tzsLn8U8Bf8",
+  "title": "【オリエンすくい】貴様に佐伯が救えるか【にじさんじ/Oriens/佐伯イッテツ】",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-09-27T09:01:29Z",
+  "end": "2025-09-27T09:16:29Z",
+  "url": "https://www.youtube.com/watch?v=tzsLn8U8Bf8",
+  "thumb": "https://i.ytimg.com/vi/tzsLn8U8Bf8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "オリエンすくい",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "ZBMm4_7Mi4E",
   "title": "【朝活雑談】爆睡➡雑談【ニチアサ！緋八マン！】【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -10091,6 +10494,21 @@
   "own": true,
   "game": "朝活雑談",
   "collabs": []
+ },
+ {
+  "id": "DDsDPH-DOxs",
+  "title": "【オリエンすくい】ええなぁ…この世界線の俺は泳げて…。【にじさんじ/Oriens/緋八マナ】",
+  "kind": "video",
+  "status": "done",
+  "start": "2025-09-28T09:00:30Z",
+  "end": "2025-09-28T09:15:30Z",
+  "url": "https://www.youtube.com/watch?v=DDsDPH-DOxs",
+  "thumb": "https://i.ytimg.com/vi/DDsDPH-DOxs/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "オリエンすくい",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "R4kUj-Z1aKE",
@@ -10119,6 +10537,21 @@
   "own": true,
   "game": "AI創作呪文",
   "collabs": []
+ },
+ {
+  "id": "B-WiSxP9Pck",
+  "title": "【 #にじマリオンクレープ 】とっておきのクレープ、召し上がれ！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-09-30T10:59:05Z",
+  "end": "2025-09-30T12:31:07Z",
+  "url": "https://www.youtube.com/watch?v=B-WiSxP9Pck",
+  "thumb": "https://i.ytimg.com/vi/B-WiSxP9Pck/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#にじマリオンクレープ",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "i1LBM0uviF0",
@@ -11135,6 +11568,21 @@
   ]
  },
  {
+  "id": "30quFnBCcrY",
+  "title": "【歌ってみた】チキンライス【にじさんじ / Oriens】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-12-25T13:00:26Z",
+  "end": "2025-12-25T13:07:16Z",
+  "url": "https://www.youtube.com/watch?v=30quFnBCcrY",
+  "thumb": "https://i.ytimg.com/vi/30quFnBCcrY/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "歌ってみた",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "HTbeQxRIvck",
   "title": "【APEX】練習スクリム！何やら激アツな助っ人に来ていただきました🔥【にじさんじ/緋八マナ・伊波ライ・赤城ウェン】",
   "kind": "stream",
@@ -11321,6 +11769,21 @@
   "collabs": []
  },
  {
+  "id": "fanHUKyN9xU",
+  "title": "【にじさんじ×茨城県】茨城県からのすごいお知らせ【Oriens/にじさんじ】#にじいばらき",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-01-07T10:59:07Z",
+  "end": "2026-01-07T12:02:16Z",
+  "url": "https://www.youtube.com/watch?v=fanHUKyN9xU",
+  "thumb": "https://i.ytimg.com/vi/fanHUKyN9xU/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "にじさんじ×茨城県",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "yADnKdl0dbA",
   "title": "【Leaf it Alone】チルい落ち葉拾いゲーム見つけたきた【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -11445,6 +11908,21 @@
   "own": true,
   "game": "朝活雑談",
   "collabs": []
+ },
+ {
+  "id": "cN-PiqBzs_8",
+  "title": "【スーパーマリオパーティ ジャンボリー】年始といえばパーティーゲームだろ！素敵な●●をお披露目しながら戦う！【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-01-18T11:10:36Z",
+  "end": "2026-01-18T12:42:39Z",
+  "url": "https://www.youtube.com/watch?v=cN-PiqBzs_8",
+  "thumb": "https://i.ytimg.com/vi/cN-PiqBzs_8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "スーパーマリオパーティ ジャンボリー",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "GLKBcsvrO5g",
@@ -11625,6 +12103,21 @@
   "own": true,
   "game": "New ポケモンスナップ",
   "collabs": []
+ },
+ {
+  "id": "i9BXi3kB13A",
+  "title": "【ファイナルラウンド】オリエンス右左どっちゲーム!!　#shorts 　#oriens",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-02-03T11:01:13Z",
+  "end": "2026-02-03T11:16:13Z",
+  "url": "https://www.youtube.com/watch?v=i9BXi3kB13A",
+  "thumb": "https://i.ytimg.com/vi/i9BXi3kB13A/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "ファイナルラウンド",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "W4NfdFyYnuw",
@@ -12300,6 +12793,36 @@
   "collabs": []
  },
  {
+  "id": "ibGIpmZKTkA",
+  "title": "【3周年記念3D】重大告知アリ！！！！！！ #放課後オリエンス 【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-03-30T10:59:10Z",
+  "end": "2026-03-30T12:51:10Z",
+  "url": "https://www.youtube.com/watch?v=ibGIpmZKTkA",
+  "thumb": "https://i.ytimg.com/vi/ibGIpmZKTkA/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "3周年記念3D",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
+  "id": "mq1LMVcyBCU",
+  "title": "【MV】IENOMI【にじさんじ/Oriens】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-03-30T13:00:06Z",
+  "end": "2026-03-30T13:06:11Z",
+  "url": "https://www.youtube.com/watch?v=mq1LMVcyBCU",
+  "thumb": "https://i.ytimg.com/vi/mq1LMVcyBCU/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "MV",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "BtuyJjGMqd8",
   "title": "【マリオカート ワールド】俺が本気出したらマジやべぇからｗｗｗ【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -12678,6 +13201,36 @@
   "collabs": []
  },
  {
+  "id": "q1ddDfwpacE",
+  "title": "【踊ってみた】 #IENOMI踊ってみた 【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-04-30T09:30:24Z",
+  "end": "2026-04-30T09:45:24Z",
+  "url": "https://www.youtube.com/watch?v=q1ddDfwpacE",
+  "thumb": "https://i.ytimg.com/vi/q1ddDfwpacE/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "踊ってみた",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
+  "id": "cVoFeltm1r8",
+  "title": "【アソビ大全】遊ぶ【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-04-30T12:03:04Z",
+  "end": "2026-04-30T14:02:13Z",
+  "url": "https://www.youtube.com/watch?v=cVoFeltm1r8",
+  "thumb": "https://i.ytimg.com/vi/cVoFeltm1r8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "アソビ大全",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "2-U1fzDOJm8",
   "title": "【Subliminal】バックルームに迷い込んだので脱出します【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -12760,6 +13313,21 @@
   "own": true,
   "game": "ワンワンバトル",
   "collabs": []
+ },
+ {
+  "id": "UKJ9QUZnICw",
+  "title": "【踊ってみた】 #IENOMI踊ってみた part2【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-05-07T09:30:14Z",
+  "end": "2026-05-07T09:45:14Z",
+  "url": "https://www.youtube.com/watch?v=UKJ9QUZnICw",
+  "thumb": "https://i.ytimg.com/vi/UKJ9QUZnICw/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "踊ってみた",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "icBwyfY7Oxg",
@@ -12898,6 +13466,21 @@
     "url": "https://www.youtube.com/watch?v=G0CT2j0Ujq8"
    }
   ]
+ },
+ {
+  "id": "-_QMP4UH2bs",
+  "title": "【踊ってみた】 #IENOMI踊ってみた part3【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-05-13T09:30:00Z",
+  "end": "2026-05-13T09:45:00Z",
+  "url": "https://www.youtube.com/watch?v=-_QMP4UH2bs",
+  "thumb": "https://i.ytimg.com/vi/-_QMP4UH2bs/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "踊ってみた",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "ofPALh3NM4A",
@@ -13284,6 +13867,21 @@
   "collabs": []
  },
  {
+  "id": "p55U79aGi68",
+  "title": "【第一回】オリエンス会議【 Oriens / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-06-15T10:59:06Z",
+  "end": "2026-06-15T12:23:11Z",
+  "url": "https://www.youtube.com/watch?v=p55U79aGi68",
+  "thumb": "https://i.ytimg.com/vi/p55U79aGi68/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "第一回",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "YljMMzCCIvM",
   "title": "【Hozy】深夜のゆったり模様替えチルゲーム🌙【にじさんじ/緋八マナ】",
   "kind": "stream",
@@ -13470,6 +14068,21 @@
   "own": true,
   "game": "朝活雑談",
   "collabs": []
+ },
+ {
+  "id": "__v5vcR9Z0w",
+  "title": "【1〜1000cm】How tall are you? with オリエンス【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-06-28T10:10:33Z",
+  "end": "2026-06-28T10:25:33Z",
+  "url": "https://www.youtube.com/watch?v=__v5vcR9Z0w",
+  "thumb": "https://i.ytimg.com/vi/__v5vcR9Z0w/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "1〜1000cm",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "sBA2VoJyhM4",
@@ -13722,6 +14335,21 @@
   "own": true,
   "game": "ポケモンチャンピオンズ",
   "collabs": []
+ },
+ {
+  "id": "d4_PWCaS0E8",
+  "title": "【足裏】How foot are you？with オリエンス【にじさんじ/Oriens】",
+  "kind": "video",
+  "status": "done",
+  "start": "2026-07-25T10:00:35Z",
+  "end": "2026-07-25T10:15:35Z",
+  "url": "https://www.youtube.com/watch?v=d4_PWCaS0E8",
+  "thumb": "https://i.ytimg.com/vi/d4_PWCaS0E8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "足裏",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "MKjBG3crPds",
@@ -14136,6 +14764,21 @@
   "collabs": []
  },
  {
+  "id": "V_dVoHAqLZ8",
+  "title": "【#放課後オリエンス 】ろくろ初体験！：前編 【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-08-31T13:00:06Z",
+  "end": "2026-08-31T13:24:49Z",
+  "url": "https://www.youtube.com/watch?v=V_dVoHAqLZ8",
+  "thumb": "https://i.ytimg.com/vi/V_dVoHAqLZ8/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
+ },
+ {
   "id": "xGPef2-kBSA",
   "title": "【告知あり】船を漕げ！前へ進め！PADDLE PADDLE PADDLE【 ざぶぅん/ 緋八マナ & 伊波ライ】",
   "kind": "stream",
@@ -14224,6 +14867,21 @@
     "url": "https://www.youtube.com/watch?v=m-VPI_1r6sM"
    }
   ]
+ },
+ {
+  "id": "aJKqNn2Oji4",
+  "title": "【#放課後オリエンス 】ろくろ初体験！：後編 【Oriens/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-09-09T12:00:06Z",
+  "end": "2026-09-09T12:14:48Z",
+  "url": "https://www.youtube.com/watch?v=aJKqNn2Oji4",
+  "thumb": "https://i.ytimg.com/vi/aJKqNn2Oji4/mqdefault.jpg",
+  "channel": "Oriensオリエンス【にじさんじ】",
+  "own": false,
+  "game": "#放課後オリエンス",
+  "collabs": [],
+  "unit": "Oriens"
  },
  {
   "id": "2XMfZM74UVY",
