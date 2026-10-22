@@ -1898,7 +1898,14 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "Q2 HUMANITY",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "伊波ライ / Inami Rai【にじさんじ】",
+    "title": "【 マリオカート8DX 】コソ練【 伊波ライ / にじさんじ 】",
+    "url": "https://www.youtube.com/watch?v=Zl3Mx06AAkY",
+    "manual": true
+   }
+  ]
  },
  {
   "id": "ZKkIamMc7-8",
