@@ -15854,5 +15854,19 @@
   "own": false,
   "game": "同時視聴",
   "collabs": []
+ },
+ {
+  "id": "3_WptsOyFlw",
+  "title": "【コラボ歌枠】ソロもデュエットも全員でも！欲張りカラオケ【戌亥とこ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-10-21T10:59:08Z",
+  "end": "2026-10-21T12:51:13Z",
+  "url": "https://www.youtube.com/watch?v=3_WptsOyFlw",
+  "thumb": "https://i.ytimg.com/vi/3_WptsOyFlw/mqdefault.jpg",
+  "channel": "戌亥とこ -Inui Toko-",
+  "own": false,
+  "game": "コラボ歌枠",
+  "collabs": []
  }
 ]
