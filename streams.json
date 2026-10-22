@@ -856,7 +856,14 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "引っ越し完了",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "フミ/にじさんじ",
+    "title": "【新人限定逆凸】\"最近のにじさんじ\"ってどんな感じ？？を聞いちゃおう【にじさんじフミ/文野環】#ふみのとふみ",
+    "url": "https://www.youtube.com/watch?v=D7t3XYDw9Bc",
+    "manual": true
+   }
+  ]
  },
  {
   "id": "rLe96FRMIMQ",
