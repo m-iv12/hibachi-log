@@ -1712,7 +1712,14 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "#NIJIMelody2023",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "セフィナ / Seffyna【にじさんじ】",
+    "title": "【#NIJIMelody2023】 もっと歌いたい💗 【にじさんじ | セフィナ】",
+    "url": "https://www.youtube.com/watch?v=13E1WW6D6N8",
+    "manual": true
+   }
+  ]
  },
  {
   "id": "x-feslvRvBE",
