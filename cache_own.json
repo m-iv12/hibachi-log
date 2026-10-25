@@ -14106,9 +14106,9 @@
   "url": "https://www.youtube.com/watch?v=1KUuKXpkvZ0",
   "thumb": "https://i.ytimg.com/vi/1KUuKXpkvZ0/mqdefault.jpg?v=6adcb054",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-24T21:59:54Z",
-  "end": null,
+  "end": "2026-10-25T01:58:07Z",
   "own": true
  }
 }
