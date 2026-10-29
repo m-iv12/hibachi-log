@@ -16048,14 +16048,20 @@
   "id": "MJL9rVt5VKk",
   "title": "【Japanese Ramen Simulator】史上最高のラーメン屋を目指して🍜【にじさんじ/ 緋八マナ with 天宮こころ,早乙女ベリー,星導ショウ】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-29T13:04:34Z",
-  "end": null,
+  "end": "2026-10-29T16:39:53Z",
   "url": "https://www.youtube.com/watch?v=MJL9rVt5VKk",
-  "thumb": "https://i.ytimg.com/vi/MJL9rVt5VKk/mqdefault.jpg?v=6ae32587",
+  "thumb": "https://i.ytimg.com/vi/MJL9rVt5VKk/mqdefault.jpg",
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "Japanese Ramen Simulator",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+    "title": "【Japanese Ramen Simulator】しまべこラーメン開店【星導ショウ/にじさんじ】",
+    "url": "https://www.youtube.com/watch?v=xu49X-DXBZE"
+   }
+  ]
  }
 ]
