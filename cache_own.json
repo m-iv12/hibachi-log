@@ -14146,11 +14146,11 @@
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "channel_id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
   "url": "https://www.youtube.com/watch?v=bK9mTTLpUMk",
-  "thumb": "https://i.ytimg.com/vi/bK9mTTLpUMk/mqdefault.jpg?v=6ae5de99",
+  "thumb": "https://i.ytimg.com/vi/bK9mTTLpUMk/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-31T12:02:18Z",
-  "end": null,
+  "end": "2026-10-31T14:34:27Z",
   "own": true
  }
 }
