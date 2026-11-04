@@ -16133,5 +16133,19 @@
   "own": true,
   "game": "スプラトゥーン3",
   "collabs": []
+ },
+ {
+  "id": "RSvxsXznOfA",
+  "title": "【雑談】夜語り【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-04T14:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=RSvxsXznOfA",
+  "thumb": "https://i.ytimg.com/vi/RSvxsXznOfA/mqdefault.jpg?v=6aeb24d4",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "雑談",
+  "collabs": []
  }
 ]
