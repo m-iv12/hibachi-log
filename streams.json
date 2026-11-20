@@ -16317,17 +16317,45 @@
   "collabs": []
  },
  {
+  "id": "qqhGL2RWNYc",
+  "title": "【#にじペスロ】塗って剥がしてぷるツヤに…⁉【にじさんじ/緋八マナ＆レイン・パターソン】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-20T10:29:00Z",
+  "end": "2026-11-20T11:33:36Z",
+  "url": "https://www.youtube.com/watch?v=qqhGL2RWNYc",
+  "thumb": "https://i.ytimg.com/vi/qqhGL2RWNYc/mqdefault.jpg",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "にじペスロ",
+  "collabs": []
+ },
+ {
   "id": "hAhYNRsoleQ",
   "title": "【歌枠】新衣装お披露目させていただきます ※告知あり #緋八マナ新衣装歌枠【にじさんじ/緋八マナ】",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-11-20T13:00:00Z",
-  "end": null,
+  "status": "done",
+  "start": "2026-11-20T12:59:06Z",
+  "end": "2026-11-20T13:58:17Z",
   "url": "https://www.youtube.com/watch?v=hAhYNRsoleQ",
-  "thumb": "https://i.ytimg.com/vi/hAhYNRsoleQ/mqdefault.jpg?v=6afabd5e",
+  "thumb": "https://i.ytimg.com/vi/hAhYNRsoleQ/mqdefault.jpg",
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "歌枠",
+  "collabs": []
+ },
+ {
+  "id": "Ss_Jj35EG18",
+  "title": "【歌ってみた】花が落ちたので、/一二三【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-20T15:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=Ss_Jj35EG18",
+  "thumb": "https://i.ytimg.com/vi/Ss_Jj35EG18/mqdefault.jpg",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "歌ってみた",
   "collabs": []
  }
 ]
