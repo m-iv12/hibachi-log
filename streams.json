@@ -16357,5 +16357,33 @@
   "own": true,
   "game": "歌ってみた",
   "collabs": []
+ },
+ {
+  "id": "CCzfEG_GNmw",
+  "title": "【ほの暮しの庭】最終回 ※ネタバレあり【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-21T13:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=CCzfEG_GNmw",
+  "thumb": "https://i.ytimg.com/vi/CCzfEG_GNmw/mqdefault.jpg?v=6b017ef7",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "ほの暮しの庭",
+  "collabs": []
+ },
+ {
+  "id": "v-WpGV15iGQ",
+  "title": "【朝活雑談】今夜はAPEXチーム顔合わせ！ ※二時間編【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-21T22:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=v-WpGV15iGQ",
+  "thumb": "https://i.ytimg.com/vi/v-WpGV15iGQ/mqdefault.jpg?v=6b017f60",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "朝活雑談",
+  "collabs": []
  }
 ]
