@@ -16385,5 +16385,19 @@
   "own": true,
   "game": "朝活雑談",
   "collabs": []
+ },
+ {
+  "id": "IfXUfDTkA0Y",
+  "title": "【APEX】大会直前顔合わせ！楽しくしゃべって勝つ！【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-22T09:09:22Z",
+  "end": "2026-11-22T13:01:44Z",
+  "url": "https://www.youtube.com/watch?v=IfXUfDTkA0Y",
+  "thumb": "https://i.ytimg.com/vi/IfXUfDTkA0Y/mqdefault.jpg",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "APEX",
+  "collabs": []
  }
 ]
