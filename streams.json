@@ -16427,5 +16427,19 @@
   "own": true,
   "game": "One Million Coins",
   "collabs": []
+ },
+ {
+  "id": "QqAvNFze-0E",
+  "title": "【凝視男】👀【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-26T12:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=QqAvNFze-0E",
+  "thumb": "https://i.ytimg.com/vi/QqAvNFze-0E/mqdefault.jpg?v=6b081610",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "凝視男",
+  "collabs": []
  }
 ]
