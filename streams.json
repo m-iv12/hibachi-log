@@ -16461,14 +16461,28 @@
   "id": "wERLturgriE",
   "title": "【Phasmophobia】地元の4人で心霊調査👻【にじさんじ/緋八マナ】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-28T12:05:02Z",
-  "end": null,
+  "end": "2026-11-28T14:58:39Z",
   "url": "https://www.youtube.com/watch?v=wERLturgriE",
-  "thumb": "https://i.ytimg.com/vi/wERLturgriE/mqdefault.jpg?v=6b0a9619",
+  "thumb": "https://i.ytimg.com/vi/wERLturgriE/mqdefault.jpg",
   "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
   "own": true,
   "game": "Phasmophobia",
+  "collabs": []
+ },
+ {
+  "id": "XrenXldCIUo",
+  "title": "【朝活雑談】マジ短縮になっちまった日【にじさんじ/緋八マナ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-28T22:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=XrenXldCIUo",
+  "thumb": "https://i.ytimg.com/vi/XrenXldCIUo/mqdefault.jpg?v=6b0aed51",
+  "channel": "緋八マナ / Hibachi Mana【にじさんじ】",
+  "own": true,
+  "game": "朝活雑談",
   "collabs": []
  }
 ]
